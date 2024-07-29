@@ -1,5 +1,5 @@
 👋 Hi, I’m @ethangambles  
-I am a Software Engineer and wanna-be ethical hacker. Let's connect on Linkden: https://www.linkedin.com/in/ethan-gamble/
+I am a Software Engineer and aspiring ethical hacker. Let's connect on Linkden: https://www.linkedin.com/in/ethan-gamble/
 
 <!---
 ethangambles/ethangambles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
